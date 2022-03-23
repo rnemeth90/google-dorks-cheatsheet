@@ -1,0 +1,100 @@
+site:com/author “incident response”
+intitle:author.at “incident response”
+site:com/author “software developer|engineer” “rust”
+“* * developer|engineer” (c rust OR c++ rust) inurl:resume.pdf
+“* * developer|engineer” (c rust OR c++ rust) inurl:resume -inurl:pdf
+site:stackoverflow.com/cv “* * developer|engineer” (c rust OR c++ rust)
+site:com/cv OR site:com/resume “developer|engineer” (c rust OR c++ rust) -stackoverflow
+site:”-*-” resume “developer|engineer” (c rust OR c++ rust) -job|jobs “gmail.com”
+site:github.com “developer|engineer” “href=”mailto” “rust”
+site:github.com “rust” “Users who have contributed to this file”
+site:gitcoin.co/profile python rust
+site:youtube.com “* is a software engineer” “rust”
+“resume|cv.tex at master * github” python spark scala
+“gmail.com” intitle:”a pen by” codepen react redux
+“* * is a * * at * *” site:meetup.com react redux|react flux
+“gmail.com”|”mailto:” “<head> <meta charset=UTF-8” inurl:pen “css3|sass|scss”
+site:credential.net “aws|google cloud”
+site:com/profile “software developer|engineer” nodejs|reactjs
+site:com/author data science ML big data analytics cloud
+inurl:wp-content/uploads github “gmail.com” intitle:resume OR inurl:resume react redux
+site:github.com | site:medium.com (“useState()” OR “useEffect()” OR “unstated()” OR “useImperativeHandle()” OR “useLayoutEffect()” OR “useDebugValue() OR “useContext() OR “usereducer()”
+intitle:”resume book” “computer science|engineering” ext:pdf “2014..2020”
+(“machine learning” OR “data science|scientist”) site:cs”*”edu inurl:resume
+(big data OR hadoop) “engineer|developer|architect” site:com/profile “www.linkedin.com/in"
+site:hackerrank.com/profile (python sql OR python nosql)
+site:scholar.google.com/citations?user “data scientist”
+site:dev.to intitle:dev.profile (“data science|scientist”)
+“gmail” site:www.linkedin.com/in data engineer python
+python “data engineer” “email|contact me|at” site:www.linkedin.com/in
+site:kaggle.com “data scientist” “joined * ago” “united states”
+site:meetup.com inurl:member intitle:data.science
+site:gitlab.com “member since * *” python
+“* data scientists going” site:meetup.com
+“data scientist” site:com/people
+“* is a data scientist” inurl:author
+“author at” “data scientist”
+“software engineer” site:com/speakers
+“as a software engineer” “he|she brings”
+site:datasciencecentral.com/profile
+site:devpost.com intitle:software.portfolio.devpost
+inurl:authors site:github.com python
+site:dataversity.net/author
+site:docs.google.com (“hadoop” OR big.data OR “python”) (“developer|engineer|architect”) “gmail”
+“data scientist” intitle:speakers OR inurl:speakers
+“* * * is a data scientist at * *” “gmail”
+related:github.io.resume “software developer|engineer” “gmail.com” -”ask hn”
+intitle:profile scotch.io python
+python sql|mysql “at master * github” “gmail.com”
+intitle:gmail.com profile python sql
+(cloud OR “big data”) (architect OR engineer) inurl:directory.attendees
+site:medium.com (aws OR azure OR cloud architect) inurl:followers
+inurl:s3.amazonaws.com (cloud|iaas|paas) (engineer|developer|architect) intitle:resume OR inurl:resume
+“gmail.com” (azure OR aws) (developer OR architect) inurl:profile -job|jobs
+intitle:resume | inurl:resume cloud “big data” (engineer|developer|architect) “10001..95142” -job|jobs|sample
+inurl:members “software developer|engineer” “gmail.com”
+inurl:github.io/resume “data science|scientist”
+site:keybase.io (“data science|scientist”)
+site:infoq.com/profile (hadoop OR spark)
+site:infoq.com/profile (c++ OR java)
+site:*com/profile “big data|hadoop” “engineer|developer”
+site:*com/profile “data scientist”
+site:*io/profile “data science|scientist”
+site:crunchbase.com/person react redux
+site:libraries.io “see all * * repositories”
+site:blogs.sap.com/author
+“developer|engineer” java|python “gmail.com” inurl:res.pdf
+site:github.io “about me”​
+site:developer.ibm.com inurl:author
+site:docs.google.com “web|software developer|engineer” “gmail.com”
+“web|software developer|engineer” intitle:resume OR inurl:resume “protonmail.com”
+site:org/wiki/user “data science|scientist”
+“software developer|engineer” “gmail * com” intitle:resume|profile
+“* certified * apache hadoop” site:www.linkedin.com/in
+intitle:about.me “software engineer” “gmail.com”
+software (engineer|developer|programmer|architect) “view my resume” gmail.com
+site:www.linkedin.com/in “machine learning * at” “she|she’s|her”
+site:about.me “email me” software (developer|programmer|engineer|architect)
+“Amazon Web Services License AWS *” architect
+“data science”|”data scientist” “who am i” “gmail.com”
+(“I am fluent in c++” OR “I’m fluent in c++”)
+“software developer|engineer” inurl:”meet*team”
+site:www.linkedin.com/in “data scientist” “* * years|experience of|in|on|with * * * * *”
+“prior to joining * *” “software developer|engineer”
+site:entrepreneur.com/author “data science|scientist”
+site:messari.io/person javascript|typescript
+inurl:resume.resume “software developer|engineer” “gmail.com”
+site:unix.stackexchange.com/users
+“What I’m doing with my life” “software engineer” inurl:profile
+site:com/users software engineer|developer
+site:pastebin.com (“gmail.com” OR “yahoo.com” OR “hotmail.com”) “software developer|engineer”
+site:io “data scientist” “see all * * repositories”
+“find me” software (engineer|developer|programmer) intitle:resume | inurl:resume
+“gmail.com” “data science|scientist” inurl:profile
+site:is “software engineer|developer” “gmail.com”
+site:im “software developer|engineer” “gmail.com”
+site:news.ycombinator.com/user?id
+site:themuse.com/profiles “software developer|engineer”
+site:drupal.org/u/ www.linkedin.com/in
+site:cdn2.hubspot.net intitle:2020 OR inurl:2020 “* trends”
+site:github.com/orgs/*/people
